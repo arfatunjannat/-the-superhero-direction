@@ -1,0 +1,127 @@
+[
+    {
+      "name": "md:Rofikuddin",
+      "gender": "male",
+      "age":43,
+      "subject": "English",
+      "adress": "Dhaka city",
+      "sellary":60000,
+     "picture":  "https://i.ibb.co/sK6F5Bt/young-male-teacher-laptop-standing-260nw-1067010011.jpg"  
+      
+    },
+    
+    {
+        "name": "Rabeya Sultana",
+        "gender": "femal",
+        "age":33,
+        "subject": "English",
+        "adress": "Dhaka city",
+        "sellary":40000,
+        "picture":  "https://i.ibb.co/b7drYyk/download-2.jpg" 
+        
+      },
+      {
+        "name": "Mahamuda Begum",
+        "gender": "female",
+        "age":38,
+        "subject": "Math",
+        "adress": "Rongpur",
+        "sellary":30000,
+        "picture":  "https://i.ibb.co/Jz331fV/download-5.jpg" 
+        
+        
+      },
+      {
+       
+        
+        "name": "shakowat Hossin",
+        "gender": "male",
+        "age":43,
+        "subject": "math",
+        "adress": "Kurigram",
+        "sellary":60000,
+        "picture":  "https://i.ibb.co/mc2S8Bn/A-smiling-young-man-wears-a-tie-as-he-stands-in-the-hallway-of-his-school-building-and-smiles-proudl.jpg"  
+        
+      },
+      {
+        "name": "sahbnur Akter",
+        "gender": "female",
+        "age":43,
+        "subject": "Bangla",
+        "adress": "Dhaka city",
+        "sellary":68000,
+        "picture":  "https://i.ibb.co/dkSkczK/download-4.jpg" 
+        
+      },
+      {
+        "name": "md:Rofikuddin Bahar",
+        "gender": "male",
+        "age":43,
+        "subject": "English",
+        "adress": "Dhaka city",
+        "sellary":70000,
+        "picture":  "https://i.ibb.co/dLYcjvp/young-male-teacher-chalk-near-260nw-1067054087.jpg" 
+        
+      },
+      {
+        "name": "Joshim Khan",
+        "gender": "male",
+        "age":73,
+        "subject": "agriculture",
+        "adress": "Dhaka city",
+        "sellary":61000,
+        "picture":  "https://i.ibb.co/ws0VNXq/portrait-young-teacher-near-whiteboard-260nw-1656704701.jpg"  
+        
+      },
+      {
+        "name": "Alomgir khan",
+        "gender": "male",
+        "age":33,
+        "subject": "English",
+        "adress": "khulna",
+        "sellary":80000,
+        "picture":  "https://i.ibb.co/jZC0Nts/portrait-young-male-teacher-background-school-blackboard-teacher-s-day-knowledge-day-back-to-school.jpg" 
+        
+      },
+      
+      {
+        "name": "Khalek Mohammad",
+        "gender": "male",
+        "age":53,
+        "subject": "Bangla",
+        "adress": "Rongpur city",
+        "sellary":5598,
+        "picture":  "https://i.ibb.co/XF30bVK/download-3.jpg" 
+        
+      },
+      {
+        "name": "md:Abdul Zodder",
+        "gender": "male",
+        "age":35,
+        "subject": "math",
+        "adress": "Dhaka city",
+        "sellary":60000,
+        "picture":  "https://i.ibb.co/ynKkc49/download-2.jpg" 
+        
+      },
+      {
+        "name": "Falguni bewa",
+        "gender": "femal",
+        "age":38,
+        "subject": "Account",
+        "adress": "kurigram city",
+        "picture":  "https://i.ibb.co/2Z1XjDJ/download-3.jpg" 
+        
+      },
+      {
+        "name": " Sahida Akter",
+        "gender": "Female",
+        "age":43,
+        "subject": "Bangla",
+        "sellary":70000,
+        "adress": "ulipur city",
+        "picture":   "https://i.ibb.co/dggR1Hj/download-34.jpg" 
+      }
+          
+
+ ]
